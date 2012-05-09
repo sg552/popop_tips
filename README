@@ -1,0 +1,14 @@
+popop -- a tip tool for users. People could open/close it as their will.
+
+
+usage:
+
+HTML:
+
+    <div class="my_tip">blablabla</div>
+
+JS:
+
+    <javascript>
+        $.popop_tips(".my_tip")
+    </javascript>
